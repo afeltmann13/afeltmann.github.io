@@ -8,12 +8,17 @@ My skills includ data pipeline creation, geospatial analyses, and datavase manag
 
 ### Skills
 ---Languages
+
 ----Python, R, SQL
 
+
 ---Libraries
+
 ----pandas, geopandas, shapley, arcpy, rasterio, matplotlib, dplyr, ggplot2, tidyr
 
+
 ---Dev Tools
+
 -----VSCode, Rstudio, Jupyter Notebook, Git, Github, Apache Spark, Apache Airflow, Dagster, Docker, GoogleCloud, Arc Pro, ArcMap, ArcGIS Online, QGIS
 
 ### Contact
