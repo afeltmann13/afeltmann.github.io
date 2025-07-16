@@ -7,24 +7,24 @@ I am a graduate of the University of Central Arkansas where my thesis focused on
 My skills includ data pipeline creation, geospatial analyses, and datavase management.
 
 ### Skills
----Languages
+####Languages
 
 ----Python, R, SQL
 
 
----Libraries
+####Libraries
 
 ----pandas, geopandas, shapley, arcpy, rasterio, matplotlib, dplyr, ggplot2, tidyr
 
 
----Dev Tools
+###Dev Tools
 
 -----VSCode, Rstudio, Jupyter Notebook, Git, Github, Apache Spark, Apache Airflow, Dagster, Docker, GoogleCloud, Arc Pro, ArcMap, ArcGIS Online, QGIS
 
 ### Contact
 You can reach me at:
---- LinkedIn: https://www.linkedin.com/in/andrew-feltmann-17191ab7
+#### LinkedIn: https://www.linkedin.com/in/andrew-feltmann-17191ab7
 
----email: afeltmann13@gmail.com
+#### email: afeltmann13@gmail.com
 
----github: GitHub.com/afelmann13
+##### github: GitHub.com/afelmann13
