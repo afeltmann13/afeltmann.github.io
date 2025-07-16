@@ -1,4 +1,4 @@
-# Andrew Feltmann 
+
 Welcome to my portfolio. I am a data professional with 5 years of experience as a data scientist, analyst, and engineer. I have spent my career focused on environmental and geospatial data. 
 
 # About me
@@ -9,17 +9,17 @@ My skills include data pipeline creation, geospatial analyses, and database mana
 ### Skills
 #### Languages
 
----- Python, R, SQL
+--- Python, R, SQL
 
 
 #### Libraries
 
----- pandas, geopandas, shapley, arcpy, rasterio, matplotlib, dplyr, ggplot2, tidyr
+--- pandas, geopandas, shapley, arcpy, rasterio, matplotlib, dplyr, ggplot2, tidyr
 
 
 #### Dev Tools
 
----- VSCode, Rstudio, Jupyter Notebook, Git, Github, Apache Spark, Apache Airflow, Dagster, Docker, GoogleCloud, Arc Pro, ArcMap, ArcGIS Online, QGIS
+--- VSCode, Rstudio, Jupyter Notebook, Git, Github, Apache Spark, Apache Airflow, Dagster, Docker, GoogleCloud, Arc Pro, ArcMap, ArcGIS Online, QGIS
 
 ### Contact
 You can reach me at:
